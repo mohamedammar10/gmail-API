@@ -15,7 +15,9 @@ sample usage of google API to Access gmail
     Create access credentials to authenticate your app's end users or service accounts.
     
 3. Download your credentials.json file to your Python working directory.
-4. Run the program to get the following output: 
+4. Run the program through python command line prompt (python version 3.6 ot higher):
+5. $ python filname.py 
+The following output: 
 Labels:
 CHAT
 SENT
